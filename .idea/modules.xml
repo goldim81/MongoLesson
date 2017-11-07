@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MongoLesson.iml" filepath="$PROJECT_DIR$/.idea/modules/MongoLesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MongoLesson_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MongoLesson_main.iml" group="MongoLesson" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MongoLesson_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MongoLesson_test.iml" group="MongoLesson" />
+    </modules>
+  </component>
+</project>
